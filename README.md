@@ -1,3 +1,4 @@
 # Add your github username and email below
 
-- **enter here**
+- **Git Username: Johannes545**
+- **Email: Johannes545@gmail.com**
